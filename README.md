@@ -1,6 +1,6 @@
 # Codepedium - Colectivo de Estudiantes del IES Barajas
 
-![Fondo de Codepedium](FONDO.JPG)
+![Fondo de Codepedium](FONDO.jpg)
 
 **Codepedium** es un colectivo de alumnos del **IES Barajas** creado con el propósito de colaborar en proyectos nuevos, compartir conocimientos y subir los apuntes de clase. Nuestro objetivo principal es aprender y mejorar nuestras habilidades en desarrollo de software mediante el trabajo en equipo.
 
